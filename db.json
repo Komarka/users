@@ -1,0 +1,10 @@
+{
+    "users": [
+        { "name":"Olga", "city":"Moscow", "age":37,"img":"user.jpeg"},
+        { "name":"Veronika", "city":"Astana", "age":18, "img":"user.jpeg"},
+        { "name":"Vera", "city":"Kiev", "age":22, "img":"user.jpeg"},
+        { "name":"Anya", "city":"Kiev", "age":27, "img":"user.jpeg"},
+        { "name":"Sveta", "city":"Moscow", "age":21, "img":"user.jpeg"},
+        { "name":"Yana", "city":"Lviv", "age":18, "img":"user.jpeg"}
+    ]
+  }
